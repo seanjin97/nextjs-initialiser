@@ -1,19 +1,22 @@
 ## Libraries
 
-Animations:
-Framer Motion: https://www.framer.com/docs/introduction/
+### Animations:
 
-CSS Framework:
-Chakra UI: https://chakra-ui.com/docs/features/style-props
+> Framer Motion: https://www.framer.com/docs/introduction/
 
-Form handling:
-React Hook Form: https://react-hook-form.com/api
+### CSS Framework:
 
-Utility libraries:
+> Chakra UI: https://chakra-ui.com/docs/features/style-props
 
-Lodash: https://lodash.com/docs/4.17.15
+### Form handling:
 
-Axios: https://axios-http.com/docs/post_example
+> React Hook Form: https://react-hook-form.com/api
+
+### Utility libraries:
+
+> Lodash: https://lodash.com/docs/4.17.15
+
+> sAxios: https://axios-http.com/docs/post_example
 
 ---
 
