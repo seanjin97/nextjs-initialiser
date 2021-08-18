@@ -1,3 +1,21 @@
+## Libraries
+
+Animations:
+Framer Motion: https://www.framer.com/docs/introduction/
+
+CSS Framework:
+Chakra UI: https://chakra-ui.com/docs/features/style-props
+
+Form handling:
+React Hook Form: https://react-hook-form.com/api
+
+Utility libraries:
+Lodash: https://lodash.com/docs/4.17.15
+
+Axios: https://axios-http.com/docs/post_example
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
